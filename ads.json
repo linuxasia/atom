@@ -1,1 +1,13 @@
-{}
+{
+    "test": {
+        "projectName": "test",
+        "description": "test",
+        "type": "community",
+        "author": "linuxasia",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/linuxasia/atom",
+        "githubUri": "https://github.com/linuxasia/atom",
+        "license": "MIT",
+        "lastUpdated": "1686451065632"
+    }
+}
